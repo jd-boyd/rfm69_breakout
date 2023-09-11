@@ -1,0 +1,3 @@
+* Retired.
+
+Moved to https://github.com/jd-boyd/bts_ref_dev_adapter/tree/main/rfm69_breakout
